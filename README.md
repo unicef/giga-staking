@@ -1,1 +1,1 @@
-# giga_launchnodes
+# giga-staking
