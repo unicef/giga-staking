@@ -1,1 +1,12 @@
-# giga-staking
+- Financial Model & Returns from Running nodes
+  - [GIGA Ethereum Staking For School Connectivity Financial Model](Financial%20Model%20%26%20Returns%20from%20Running%20nodes/GIGA%20Ethereum%20Staking%20For%20School%20Connectivity%20Financial%20Model.md)
+- Project Summary
+  - [Giganodes Project What, Why and How](Project%20Summary/Giganodes%20Project%20What%2C%20Why%20and%20How.md)
+- Setting up a Beacon Node on AWS
+  - [Giganodes - Beacon Node With Geth Set Up Instructions for AWS](Setting%20up%20a%20Beacon%20Node%20on%20AWS/Giganodes%20-%20Beacon%20Node%20With%20Geth%20Set%20Up%20Instructions%20for%20AWS.md)
+- Setting up a Beacon and Validator Node on locally hosted servers
+  - [v.1 Part 1 : Giganodes ETH staking on bare metal](Setting%20up%20a%20Beacon%20and%20Validator%20Node%20on%20locally%20hosted%20servers/v.1%20Part%201%20:%20Giganodes%20ETH%20staking%20on%20bare%20metal.md)
+  - [v.1 Part 2 : Giganodes ETH staking on bare metal](Setting%20up%20a%20Beacon%20and%20Validator%20Node%20on%20locally%20hosted%20servers/v.1%20Part%202%20:%20Giganodes%20ETH%20staking%20on%20bare%20metal.md)
+- Setting up a Validator Node on AWS
+  - [Cloud Based Validator Node Set up Part 1](Setting%20up%20a%20Validator%20Node%20on%20AWS/Cloud%20Based%20Validator%20Node%20Set%20up%20Part%201.md)
+  - [Cloud Based Validator Node Set up Part 2](Setting%20up%20a%20Validator%20Node%20on%20AWS/Cloud%20Based%20Validator%20Node%20Set%20up%20Part%202.md)
